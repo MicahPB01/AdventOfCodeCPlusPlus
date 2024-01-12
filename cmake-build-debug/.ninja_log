@@ -1,5 +1,6 @@
 # ninja log v5
-1	300	7260995767762083	CMakeFiles/untitled1.dir/main.cpp.obj	94195f190ed84cd8
-301	463	7260995769372455	untitled1.exe	2238978f53431cb
-2	278	7260999582820526	CMakeFiles/untitled1.dir/main.cpp.obj	94195f190ed84cd8
-279	439	7260999584400887	untitled1.exe	2238978f53431cb
+2	364	7267838157581072	CMakeFiles/untitled1.dir/main.cpp.obj	94195f190ed84cd8
+403	2592	7267867226876514	untitled1.exe	2d547d1b127a760
+3	402	7267867205001576	CMakeFiles/untitled1.dir/DayOne/PartOne.cpp.obj	9dd5eac6c6a3fffe
+2	402	7267872259089835	CMakeFiles/untitled1.dir/DayOne/PartTwo.cpp.obj	517726a67f1ddaab
+2	403	7267875314432558	CMakeFiles/untitled1.dir/DayOne/PartOne.cpp.obj	9dd5eac6c6a3fffe
